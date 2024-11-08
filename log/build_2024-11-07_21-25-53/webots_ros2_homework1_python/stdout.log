@@ -1,0 +1,52 @@
+running egg_info
+creating build/webots_ros2_homework1_python/project1_python.egg-info
+writing build/webots_ros2_homework1_python/project1_python.egg-info/PKG-INFO
+writing dependency_links to build/webots_ros2_homework1_python/project1_python.egg-info/dependency_links.txt
+writing entry points to build/webots_ros2_homework1_python/project1_python.egg-info/entry_points.txt
+writing requirements to build/webots_ros2_homework1_python/project1_python.egg-info/requires.txt
+writing top-level names to build/webots_ros2_homework1_python/project1_python.egg-info/top_level.txt
+writing manifest file 'build/webots_ros2_homework1_python/project1_python.egg-info/SOURCES.txt'
+reading manifest file 'build/webots_ros2_homework1_python/project1_python.egg-info/SOURCES.txt'
+writing manifest file 'build/webots_ros2_homework1_python/project1_python.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/thor10001/Project1Parts1_2/project1_python/build/webots_ros2_homework1_python/build
+creating /home/thor10001/Project1Parts1_2/project1_python/build/webots_ros2_homework1_python/build/lib
+creating /home/thor10001/Project1Parts1_2/project1_python/build/webots_ros2_homework1_python/build/lib/project1_python
+copying project1_python/project1_python.py -> /home/thor10001/Project1Parts1_2/project1_python/build/webots_ros2_homework1_python/build/lib/project1_python
+copying project1_python/__init__.py -> /home/thor10001/Project1Parts1_2/project1_python/build/webots_ros2_homework1_python/build/lib/project1_python
+copying project1_python/original code.py -> /home/thor10001/Project1Parts1_2/project1_python/build/webots_ros2_homework1_python/build/lib/project1_python
+copying project1_python/targetdistance.py -> /home/thor10001/Project1Parts1_2/project1_python/build/webots_ros2_homework1_python/build/lib/project1_python
+copying project1_python/cleaned.py -> /home/thor10001/Project1Parts1_2/project1_python/build/webots_ros2_homework1_python/build/lib/project1_python
+copying project1_python/wallfollower.py -> /home/thor10001/Project1Parts1_2/project1_python/build/webots_ros2_homework1_python/build/lib/project1_python
+running install
+running install_lib
+creating /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/lib/python3.10/site-packages/project1_python
+copying /home/thor10001/Project1Parts1_2/project1_python/build/webots_ros2_homework1_python/build/lib/project1_python/project1_python.py -> /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/lib/python3.10/site-packages/project1_python
+copying /home/thor10001/Project1Parts1_2/project1_python/build/webots_ros2_homework1_python/build/lib/project1_python/__init__.py -> /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/lib/python3.10/site-packages/project1_python
+copying /home/thor10001/Project1Parts1_2/project1_python/build/webots_ros2_homework1_python/build/lib/project1_python/original code.py -> /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/lib/python3.10/site-packages/project1_python
+copying /home/thor10001/Project1Parts1_2/project1_python/build/webots_ros2_homework1_python/build/lib/project1_python/targetdistance.py -> /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/lib/python3.10/site-packages/project1_python
+copying /home/thor10001/Project1Parts1_2/project1_python/build/webots_ros2_homework1_python/build/lib/project1_python/cleaned.py -> /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/lib/python3.10/site-packages/project1_python
+copying /home/thor10001/Project1Parts1_2/project1_python/build/webots_ros2_homework1_python/build/lib/project1_python/wallfollower.py -> /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/lib/python3.10/site-packages/project1_python
+byte-compiling /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/lib/python3.10/site-packages/project1_python/project1_python.py to project1_python.cpython-310.pyc
+byte-compiling /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/lib/python3.10/site-packages/project1_python/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/lib/python3.10/site-packages/project1_python/original code.py to original code.cpython-310.pyc
+byte-compiling /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/lib/python3.10/site-packages/project1_python/targetdistance.py to targetdistance.cpython-310.pyc
+byte-compiling /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/lib/python3.10/site-packages/project1_python/cleaned.py to cleaned.cpython-310.pyc
+byte-compiling /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/lib/python3.10/site-packages/project1_python/wallfollower.py to wallfollower.cpython-310.pyc
+running install_data
+copying resource/project1_python -> /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/share/ament_index/resource_index/packages
+creating /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/share/project1_python
+creating /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/share/project1_python/launch
+copying launch/project1_launch.py -> /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/share/project1_python/launch
+creating /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/share/project1_python/worlds
+copying worlds/Part2MapDay.wbt -> /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/share/project1_python/worlds
+copying package.xml -> /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/share/project1_python
+creating /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/share/project1_python/resource
+copying resource/turtlebot_webots.urdf -> /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/share/project1_python/resource
+copying resource/ros2control.yml -> /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/share/project1_python/resource
+running install_egg_info
+Copying build/webots_ros2_homework1_python/project1_python.egg-info to /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/lib/python3.10/site-packages/project1_python-0.0.0-py3.10.egg-info
+running install_scripts
+Installing project1_python script to /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/lib/project1_python
+writing list of installed files to '/home/thor10001/Project1Parts1_2/project1_python/build/webots_ros2_homework1_python/install.log'

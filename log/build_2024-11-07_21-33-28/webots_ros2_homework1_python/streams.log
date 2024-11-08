@@ -1,0 +1,21 @@
+[0.417s] Invoking command in '/home/thor10001/Project1Parts1_2/project1_python': PYTHONPATH=/home/thor10001/Project1Parts1_2/project1_python/build/webots_ros2_homework1_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/webots_ros2_homework1_python build --build-base /home/thor10001/Project1Parts1_2/project1_python/build/webots_ros2_homework1_python/build install --record /home/thor10001/Project1Parts1_2/project1_python/build/webots_ros2_homework1_python/install.log --single-version-externally-managed install_data
+[0.556s] running egg_info
+[0.556s] writing build/webots_ros2_homework1_python/project1_python.egg-info/PKG-INFO
+[0.556s] writing dependency_links to build/webots_ros2_homework1_python/project1_python.egg-info/dependency_links.txt
+[0.557s] writing entry points to build/webots_ros2_homework1_python/project1_python.egg-info/entry_points.txt
+[0.557s] writing requirements to build/webots_ros2_homework1_python/project1_python.egg-info/requires.txt
+[0.557s] writing top-level names to build/webots_ros2_homework1_python/project1_python.egg-info/top_level.txt
+[0.557s] reading manifest file 'build/webots_ros2_homework1_python/project1_python.egg-info/SOURCES.txt'
+[0.557s] writing manifest file 'build/webots_ros2_homework1_python/project1_python.egg-info/SOURCES.txt'
+[0.557s] running build
+[0.557s] running build_py
+[0.558s] running install
+[0.558s] running install_lib
+[0.558s] running install_data
+[0.558s] running install_egg_info
+[0.558s] removing '/home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/lib/python3.10/site-packages/project1_python-0.0.0-py3.10.egg-info' (and everything under it)
+[0.559s] Copying build/webots_ros2_homework1_python/project1_python.egg-info to /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/lib/python3.10/site-packages/project1_python-0.0.0-py3.10.egg-info
+[0.559s] running install_scripts
+[0.574s] Installing project1_python script to /home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/lib/project1_python
+[0.574s] writing list of installed files to '/home/thor10001/Project1Parts1_2/project1_python/build/webots_ros2_homework1_python/install.log'
+[0.592s] Invoked command in '/home/thor10001/Project1Parts1_2/project1_python' returned '0': PYTHONPATH=/home/thor10001/Project1Parts1_2/project1_python/build/webots_ros2_homework1_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/thor10001/Project1Parts1_2/project1_python/install/webots_ros2_homework1_python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/webots_ros2_homework1_python build --build-base /home/thor10001/Project1Parts1_2/project1_python/build/webots_ros2_homework1_python/build install --record /home/thor10001/Project1Parts1_2/project1_python/build/webots_ros2_homework1_python/install.log --single-version-externally-managed install_data

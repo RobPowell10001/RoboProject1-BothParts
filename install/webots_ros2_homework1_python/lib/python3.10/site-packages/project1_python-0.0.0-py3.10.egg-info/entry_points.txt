@@ -1,0 +1,6 @@
+[console_scripts]
+project1_python = project1_python.project1_python:main
+
+[launch.frontend.launch_extension]
+launch_ros = launch_ros
+
